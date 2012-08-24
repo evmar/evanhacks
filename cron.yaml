@@ -1,0 +1,4 @@
+cron:
+- description: refetch
+  url: /feed/cron
+  schedule: every 12 hours
