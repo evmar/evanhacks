@@ -3,6 +3,7 @@ package transcode
 import (
 	"encoding/json"
 	"encoding/xml"
+	"fmt"
 	"io"
 	"time"
 )
@@ -29,6 +30,7 @@ type GPObject struct {
 	Attachments []*GPAttachment `json:"attachments"`
 }
 type GPAttachment struct {
+	ObjectType  string          `json:"objectType"`
 	DisplayName string `json:"displayName"`
 	Content     string `json:"content"`
 	Url         string `json:"url"`
@@ -71,12 +73,21 @@ func ReadGPFeed(r io.Reader) (feed *GPFeed, err error) {
 func RenderPost(item *GPItem) string {
 	html := item.Object.Content
 	for _, attach := range item.Object.Attachments {
-		if len(html) > 0 {
-			html += "<br><hr>"
+		switch attach.ObjectType {
+		case "article":
+			if len(html) > 0 {
+				html += "<br><hr>"
+			}
+			html += "<p><b>" + attach.DisplayName + "</b> "
+			html += "[<a href='" + attach.Url + "'>link</a>]</p>"
+			html += "<p style='white-space: pre-wrap'>" + attach.Content + "</p>"
+		case "photo":
+			html += fmt.Sprintf("<p>Attachment: <a href='%s'>photo</a></p>",
+				attach.Url)
+		default:
+			html += fmt.Sprintf("<p><i>Attachment unhandled: '%s'</i></p>",
+				attach.ObjectType)
 		}
-		html += "<p><b>" + attach.DisplayName + "</b> "
-		html += "[<a href='" + attach.Url + "'>link</a>]</p>"
-		html += "<p style='white-space: pre-wrap'>" + attach.Content + "</p>"
 	}
 	return html
 }
