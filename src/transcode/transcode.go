@@ -1,4 +1,4 @@
-package main
+package transcode
 
 import (
 	"encoding/json"
@@ -56,7 +56,7 @@ type AtomLink struct {
 	Href string `xml:"href,attr"`
 }
 
-func transcode(r io.Reader, w io.Writer) error {
+func Transcode(r io.Reader, w io.Writer) error {
 	gpfeed := GPFeed{}
 	if err := json.NewDecoder(r).Decode(&gpfeed); err != nil {
 		return err

@@ -11,6 +11,8 @@ import (
 	"appengine"
 	"appengine/datastore"
 	"appengine/urlfetch"
+
+	"transcode"
 )
 
 var feedsToFetch = []string{
@@ -98,7 +100,7 @@ func fetchGP(c appengine.Context, id string) (*Fetch, error) {
 	raw := rawBuf.Bytes()
 
 	feed := &bytes.Buffer{}
-	if err = transcode(bytes.NewBuffer(raw), feed); err != nil {
+	if err = transcode.Transcode(bytes.NewBuffer(raw), feed); err != nil {
 		return nil, err
 	}
 
