@@ -56,9 +56,19 @@ type AtomLink struct {
 	Href string `xml:"href,attr"`
 }
 
+func ReadGPFeed(r io.Reader) (feed *GPFeed, err error) {
+	feed = &GPFeed{}
+	err = json.NewDecoder(r).Decode(feed)
+	return
+}
+
+func RenderPost(item *GPItem) string {
+	return item.Object.Content
+}
+
 func Transcode(r io.Reader, w io.Writer) error {
-	gpfeed := GPFeed{}
-	if err := json.NewDecoder(r).Decode(&gpfeed); err != nil {
+	gpfeed, err := ReadGPFeed(r)
+	if err != nil {
 		return err
 	}
 
@@ -79,7 +89,7 @@ func Transcode(r io.Reader, w io.Writer) error {
 			Author:    AtomAuthor{Name: item.Actor.DisplayName},
 			Updated:   item.Updated,
 			Published: item.Published,
-			Summary:   AtomText{Type: "html", Text: item.Object.Content},
+			Summary:   AtomText{Type: "html", Text: RenderPost(item)},
 			Link:      []*AtomLink{&link},
 		}
 		atomfeed.Entry = append(atomfeed.Entry, &entry)

@@ -1,0 +1,1189 @@
+{
+ "kind": "plus#activityFeed",
+ "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/alZBa-TFvnT45_HZXUEo3wVOcQg\"",
+ "nextPageToken": "CAIQrNzp-OObrwIgFCgB",
+ "title": "Google+ List of Activities for Collection PUBLIC",
+ "updated": "2013-02-28T03:07:52.934Z",
+ "items": [
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/G3abc9OnbhFg1m9Z7oGIJ-UUwd8\"",
+   "title": "Context, context context...",
+   "published": "2013-02-28T03:07:52.934Z",
+   "updated": "2013-02-28T03:07:52.934Z",
+   "id": "z13vvrealpfnsvppp04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/XPTGfxAjvXx",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Context, context context...",
+    "url": "https://plus.google.com/109695781128233963799/posts/XPTGfxAjvXx",
+    "replies": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13vvrealpfnsvppp04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13vvrealpfnsvppp04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13vvrealpfnsvppp04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "A Flawed America in Context",
+      "content": "America's particular failings are remarkable because America is remarkable, but they are not particularly deviant or outstanding on the misery index.",
+      "url": "http://feedproxy.google.com/~r/Ta-nehisiCoates/~3/T0lvfql2QqE/story01.htm",
+      "image": {
+       "url": "https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://cdn.theatlantic.com/static/mt/assets/tanehisicoates/flagthumb.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://cdn.theatlantic.com/static/mt/assets/tanehisicoates/flagthumb.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Mobile"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/9El51mM_QqzsUYdKBDpZGcT7ELw\"",
+   "title": "a) if you haven't seen district B13, do so.\nb) don't debug shit in production people, seriously\n\nwe need...",
+   "published": "2013-02-06T05:46:29.553Z",
+   "updated": "2013-02-06T05:46:29.553Z",
+   "id": "z135z3rwbmv5gjbgl04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/RHvUU3mQLB4",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "a) if you haven&#39;t seen district B13, do so.\u003cbr /\u003eb) don&#39;t debug shit in production people, seriously\u003cbr /\u003e\u003cbr /\u003e\u003ca href=\"http://www.youtube.com/watch?v=QFAH3ZPhQ-E\" class=\"ot-anchor\" rel=\"nofollow\"\u003ewe need an idea\u003c/a\u003e\u003cbr /\u003e\u003cbr /\u003e(This is a much better meme than the Downfall re-subs)",
+    "url": "https://plus.google.com/109695781128233963799/posts/RHvUU3mQLB4",
+    "replies": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z135z3rwbmv5gjbgl04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 2,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z135z3rwbmv5gjbgl04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z135z3rwbmv5gjbgl04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "video",
+      "displayName": "we need an idea",
+      "content": "average day in security-related software engineering",
+      "url": "http://www.youtube.com/watch?v=QFAH3ZPhQ-E",
+      "image": {
+       "url": "https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://i2.ytimg.com/vi/QFAH3ZPhQ-E/hqdefault.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_w=497",
+       "type": "image/jpeg",
+       "height": 279,
+       "width": 497
+      },
+      "embed": {
+       "url": "http://www.youtube.com/v/QFAH3ZPhQ-E?version=3&autohide=1",
+       "type": "application/x-shockwave-flash"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/Mo5m_4ZemYPN9uDRn1RAD1vuRQs\"",
+   "title": "Good. And if you haven't read TNC's piece he's discussing, you should",
+   "published": "2012-10-01T22:09:48.444Z",
+   "updated": "2012-10-01T22:09:48.444Z",
+   "id": "z122sj4hosefuzvua23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/CrXedpgXVGp",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "Good.  And if you haven&#39;t read TNC&#39;s piece he&#39;s discussing, you should",
+    "url": "https://plus.google.com/109695781128233963799/posts/CrXedpgXVGp",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122sj4hosefuzvua23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122sj4hosefuzvua23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122sj4hosefuzvua23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "The Rage of the Privileged Class",
+      "content": "The Atlantic covers news and analysis on politics, business, culture, technology, national, international and life on the official site of The Atlantic Magazine.",
+      "url": "http://m.theatlantic.com/politics/archive/2012/10/the-rage-of-the-privileged-class/263095/"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Mobile"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/WFHAMB6KA0RSMjKgSaCP6PzhBks\"",
+   "title": "more proof that we're amnesiacs:\n\n\"The first step was, perhaps, the hardest: The Republican Party had...",
+   "published": "2012-06-26T02:04:33.422Z",
+   "updated": "2012-06-26T02:04:33.422Z",
+   "id": "z12ygtxzvyv1t3ily23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/BStGXKHc5kw",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "more proof that we&#39;re amnesiacs:\u003cbr /\u003e\u003cbr /\u003e&quot;The first step was, perhaps, the hardest: The Republican Party had to take an official and unanimous stand against the wisdom and constitutionality of the individual mandate. Typically, it’s not that difficult for the opposition party to oppose the least popular element in the majority party’s largest initiative. But the individual mandate was a policy idea Republicans had thought of in the late-1980s and supported for two decades. They had, in effect, to convince every Republican to say that the policy they had been supporting was an unconstitutional assault on liberty.&quot;\u003cbr /\u003e\u003cbr /\u003e[you should probably read it all.  And, if you&#39;re not cynical and want to participate in democracies, continue to REMEMBER THINGS]",
+    "url": "https://plus.google.com/109695781128233963799/posts/BStGXKHc5kw",
+    "replies": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ygtxzvyv1t3ily23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ygtxzvyv1t3ily23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ygtxzvyv1t3ily23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "How Republicans made it possible for the Supreme Court to rule against the mandate",
+      "content": "How Republicans made it possible for the Supreme Court to rule against the mandate",
+      "url": "http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/06/25/why-the-supreme-court-might-rule-against-the-mandate/",
+      "image": {
+       "url": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.washingtonpost.com/blogs/ezra-klein/files/2012/06/supreme-court-sitting.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://www.washingtonpost.com/blogs/ezra-klein/files/2012/06/supreme-court-sitting.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/z8biabOIqH41kaCvuQgCuidMHnU\"",
+   "title": "This is James Fallows?!?",
+   "published": "2012-06-25T14:25:38.864Z",
+   "updated": "2012-06-25T14:25:38.864Z",
+   "id": "z135gbp4rwivyxeim04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/cBSHJSX2BLm",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "This is James Fallows?!?",
+    "url": "https://plus.google.com/109695781128233963799/posts/cBSHJSX2BLm",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z135gbp4rwivyxeim04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z135gbp4rwivyxeim04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z135gbp4rwivyxeim04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "5 Signs the United States Is Undergoing a Coup",
+      "content": "This is distilled from a longer item earlier today, at the suggestion of my colleagues. It's a simple game you can try at home. Pick a country and describe a sequence in which: First, a presidential election is decided by five people, who don't even try to explain their choice in normal legal terms. Then the beneficiary of that decision appoints the next two members of the court, who present themselves for consideration as restrained, humble figu...",
+      "url": "http://theatlantic.feedsportal.com/c/34375/f/625833/s/20abc6ec/l/0L0Stheatlantic0N0Cpolitics0Carchive0C20A120C0A60C50Esigns0Ethe0Eunited0Estates0Eis0Eundergoing0Ea0Ecoup0C25890A40C/story01.htm"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/8Xz-QM5FoDbVpz_t-6Ozo03bhAI\"",
+   "title": "i \u003c3 felix salmon!",
+   "published": "2012-06-19T00:16:18.698Z",
+   "updated": "2012-06-19T00:16:18.698Z",
+   "id": "z13hi5hajojyj3qxh04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/W4HJt2NwLcZ",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "i &lt;3 felix salmon!",
+    "url": "https://plus.google.com/109695781128233963799/posts/W4HJt2NwLcZ",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hi5hajojyj3qxh04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hi5hajojyj3qxh04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hi5hajojyj3qxh04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Felix Salmon: Krugman vs. Bishop",
+      "content": "Felix Salmon explains why Sam Tanenhaus has a lot of explaining to do:\n\nFelix Salmon: Paul Krugman was not happy with the choice of Matthew Bishop to review his new book in the NYTBR, and the main locus of the disagreement seems to be, at heart, how much respect Krugman should give to people who disagree with him. Here’s Bishop:\n\nNo opportunity to preach to the choir is missed by the populist Mr. Krugman, nor any chance to mock those he calls the...",
+      "url": "http://delong.typepad.com/sdj/2012/06/felix-salmon-krugman-vs-bishop.html"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/-uAjtVs_KmAcIzYasNDOYNdOCJY\"",
+   "title": "yet again, a thoughtful conservative comes around, what with the \"i like privatization in the abstract...",
+   "published": "2012-06-18T20:21:32.428Z",
+   "updated": "2012-06-18T20:21:32.428Z",
+   "id": "z12szb1zvtfnvzodv23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/AyYwmTSbJrL",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "yet again, a thoughtful conservative comes around, what with the &quot;i like privatization in the abstract, but in practice, it needs reform/oversight/regulation to work, and the human cost is real&quot;.  A shame it has to come after months of vocal opposition, but whatever.",
+    "url": "https://plus.google.com/109695781128233963799/posts/AyYwmTSbJrL",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12szb1zvtfnvzodv23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12szb1zvtfnvzodv23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12szb1zvtfnvzodv23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "What The WaPo Wouldn't Run",
+      "content": "That scene is a free, makeshift dental clinic for the uninsured. It was mobbed - as it would be in a developing country. Except it's right here in Tennessee, where many of the working poor are uninsured, and where the state is perfectly happy to keep it that way. For these strapped, working class folk, Obama's demonized healthcare reform is a godsend. Pity almost none of them in this part of deepest red America have heard of what it could do for ...",
+      "url": "http://andrewsullivan.thedailybeast.com/2012/06/what-the-wapo-wont-run.html"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/pm-Qm-2ANMaqQSh-I0L5ACFLK1Q\"",
+   "title": "This is conservative Andrew Sullivan, citing Ronald Reagan's policy advisor Bruce Bartlett.  Amnesia's...",
+   "published": "2012-06-12T15:55:48.330Z",
+   "updated": "2012-06-12T15:55:48.330Z",
+   "id": "z12ispnzqrv4xtscm23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/492gsPykAJ8",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "This is conservative Andrew Sullivan, citing Ronald Reagan&#39;s policy advisor Bruce Bartlett.  Amnesia&#39;s great!",
+    "url": "https://plus.google.com/109695781128233963799/posts/492gsPykAJ8",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ispnzqrv4xtscm23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ispnzqrv4xtscm23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12ispnzqrv4xtscm23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "George W. Bush's Tab",
+      "content": "Bruce Bartlett tallies it. The damage this single president did to the core of the country's fiscal health - and our ability to weather a storm like 2007 - 2009 - is hard to find parallels with. Money quote:\n\nPutting all the numbers in the C.B.O. report together, we see that continuation of tax and budget policies and economic conditions in place at the end of the Clinton administration would have led to a cumulative budget surplus of $5.6 trilli...",
+      "url": "http://andrewsullivan.thedailybeast.com/2012/06/george-w-bushs-tab.html",
+      "image": {
+       "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://dailydish.typepad.com/.a/6a00d83451c45669e20176155d1cbe970c-550wi&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://dailydish.typepad.com/.a/6a00d83451c45669e20176155d1cbe970c-550wi",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/1iH3MqbcIxrSxsEzRDsbNdK34m4\"",
+   "title": "",
+   "published": "2012-06-05T18:11:18.095Z",
+   "updated": "2012-06-05T18:11:18.095Z",
+   "id": "z131vxbh0umxslqq204cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/ZZsR4LqHEFc",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "",
+    "url": "https://plus.google.com/109695781128233963799/posts/ZZsR4LqHEFc",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z131vxbh0umxslqq204cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z131vxbh0umxslqq204cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z131vxbh0umxslqq204cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Obama's Positive Campaign",
+      "content": "Josh Green compares GOP and Democratic party messaging. Steven Benen graphs the numbers:\n\nKevin Drum is wowed:\n\nThat's....amazing. Not the fact that Democratic ads are 2:1 positive while Republican ads are 2:1 negative — exactly the opposite of the media spin you're likely to hear these days — but the fact that the two campaigns have run 63,793 ads in six weeks. That's 1,400 ads per day six months before the election.",
+      "url": "http://andrewsullivan.thedailybeast.com/2012/06/obamas-positive-campaign.html"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/Nv5sqJ_ucEhlkQzrarw0vbgb4Ek\"",
+   "title": "whoa!",
+   "published": "2012-06-03T05:30:44.045Z",
+   "updated": "2012-06-03T05:30:44.045Z",
+   "id": "z12av3n5drmpurthn04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/X5CstJ4JK8x",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "whoa!",
+    "url": "https://plus.google.com/109695781128233963799/posts/X5CstJ4JK8x",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12av3n5drmpurthn04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12av3n5drmpurthn04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12av3n5drmpurthn04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Face Of The Day",
+      "content": "Jesus Diaz gawks at a recent dermatology case published in the New England Journal of Medicine:\n\nThis guy is 69 years old, but half of his face looks much, much older than that. He was a trucker and, for 28 years, his face received much more sunlight on the left side, resulting on premature aging. We all knew that being exposed to the sun makes you age prematurely, but seeing the dramatic difference in a single face is just stunning. ...\nAs the s...",
+      "url": "http://andrewsullivan.thedailybeast.com/2012/06/face-of-the-day-2.html"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/BS2D_3vNjBqyJxyugxR9ub4oUc0\"",
+   "title": "historical context! Even Jimmy Carter likes it!",
+   "published": "2012-05-01T03:59:33.773Z",
+   "updated": "2012-05-01T03:59:33.773Z",
+   "id": "z13kw3op3nqzylbmt23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/FvkLDAv6SYY",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "historical context!  Even Jimmy Carter likes it!",
+    "url": "https://plus.google.com/109695781128233963799/posts/FvkLDAv6SYY",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13kw3op3nqzylbmt23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13kw3op3nqzylbmt23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13kw3op3nqzylbmt23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "'Even Jimmy Carter'",
+      "content": "Mitt Romney informs us that the raid that took out Osama bin Laden one year ago was no big deal, because \"even Jimmy Carter would have given that order.\" Grrrrr. Necessary disclosure: I worked for Jimmy Carter and admire his intentions, his character, and many of his achievements, although I am not usually considered an uncritical booster of his record as president. But let's remember: 1) Jimmy Carter is a graduate of the U.S. Naval Academy who s...",
+      "url": "http://feedproxy.google.com/~r/JamesFallows/~3/FmEG8tfwn8Q/story01.htm"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/bYcqA7AiF2lVelHZzJV0IRIfx5g\"",
+   "title": "good list",
+   "published": "2012-04-24T11:12:36.420Z",
+   "updated": "2012-04-24T11:12:36.420Z",
+   "id": "z12hzjbzusm3yhppd04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/VP6EHuSV5AJ",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "good list",
+    "url": "https://plus.google.com/109695781128233963799/posts/VP6EHuSV5AJ",
+    "replies": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12hzjbzusm3yhppd04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12hzjbzusm3yhppd04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12hzjbzusm3yhppd04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Common Cooking Mistakes",
+      "content": "We all make mistakes when cooking, right? Cooking Light says that “the creative cook can often cook her way out of a kitchen error, but the smart cook aims to prevent such creativity from being necessary”. In order to help you along your way to “smart cook” status, Cooking Light compiled a list of forty-three common cooking mistakes you can learn to avoid .\nSuch mistakes include: slicing meat with the grain, not ‘shocking’ vegetables once they’ve...",
+      "url": "http://feedproxy.google.com/~r/LoneGunman/~3/sKzL8NpZVqA/"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/bImUbufDL0TiwS3nmAElttg1MjU\"",
+   "title": "AWESOME.",
+   "published": "2012-04-17T17:24:30.941Z",
+   "updated": "2012-04-17T17:24:30.941Z",
+   "id": "z13wtlaggtr5yli4a04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/PVGu1vTXc5v",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "AWESOME.",
+    "url": "https://plus.google.com/109695781128233963799/posts/PVGu1vTXc5v",
+    "replies": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wtlaggtr5yli4a04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wtlaggtr5yli4a04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13wtlaggtr5yli4a04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "George Washington's Health Insurance Individual Mandate",
+      "content": "Mitt Romney and Barack Obama have an illustrious predecessor:\n\nIn 1790, the very first Congress—which incidentally included 20 framers—passed a law that included a mandate: namely, a requirement that ship owners buy medical insurance for their seamen. This law was then signed by another framer: President George Washington. That’s right, the father of our country had no difficulty imposing a health insurance mandate.\nThat’s not all. In 1792, a Con...",
+      "url": "http://feedproxy.google.com/~r/andrewsullivan/rApM/~3/9pD1eR-dEXE/the-founders-mandates.html",
+      "image": {
+       "url": "https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://dailydish.typepad.com/.a/6a00d83451c45669e20163044d1ea3970d-320wi&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://dailydish.typepad.com/.a/6a00d83451c45669e20163044d1ea3970d-320wi",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/Hax2MCNbS6sMpxqDsmcaOGm_sZs\"",
+   "title": "whoops",
+   "published": "2012-04-10T22:49:23.165Z",
+   "updated": "2012-04-10T22:49:23.165Z",
+   "id": "z12xejc55lqivrwjm04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/hdJYwY9wkFs",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "whoops",
+    "url": "https://plus.google.com/109695781128233963799/posts/hdJYwY9wkFs",
+    "replies": {
+     "totalItems": 2,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xejc55lqivrwjm04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xejc55lqivrwjm04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xejc55lqivrwjm04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Now This Is Interesting: A Climate Prediction From 1981",
+      "content": "It is very much worth checking out an item on Real Climate, from two Dutch scientists. They have found a paper by James Hansen and others from 1981, before climate change was even an occasion for political disagreement. Hansen is now famous in the world of climate studies, and infamous to the world of the right wing, but back then he was a 40-year-old researcher who came up with a projection of how rising CO2 levels might affect global temperatur...",
+      "url": "http://feedproxy.google.com/~r/JamesFallows/~3/GAm8m96o8P0/story01.htm"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/Z0QSCnCZ84XhB3MUGfvE6Pf-ZoE\"",
+   "title": "pragmatism, pragmatism!",
+   "published": "2012-04-09T13:29:12.180Z",
+   "updated": "2012-04-09T13:29:12.180Z",
+   "id": "z12luhcybpffgbel423aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/75UAfYn6YbU",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "pragmatism, pragmatism!",
+    "url": "https://plus.google.com/109695781128233963799/posts/75UAfYn6YbU",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12luhcybpffgbel423aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12luhcybpffgbel423aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12luhcybpffgbel423aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Getting Worked Over",
+      "content": "What’s going on here in Kentucky’s employment scene is typical nationally:\nWith the economy slowly reviving, an executive from Atlas Van Lines recently visited Louisville, Ky., with good news: the company wanted to hire more than 100 truck drivers ahead of the summer moving season.\n\nBut a usually reliable source of workers, the local government-financed job center, could offer little help, because the federal money that local officials had design...",
+      "url": "http://www.balloon-juice.com/2012/04/09/getting-worked-over/",
+      "image": {
+       "url": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.balloon-juice.com/wp-content/plugins/add-to-any/share_save_171_16.png&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://www.balloon-juice.com/wp-content/plugins/add-to-any/share_save_171_16.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/7sTRivPy3vZYjz9MJ1zuNfPM6Pw\"",
+   "title": "I like how TNC is always willing to take things to their logical conclusions. \"I won't tell players how...",
+   "published": "2012-04-06T18:42:59.122Z",
+   "updated": "2012-04-06T18:42:59.122Z",
+   "id": "z12pzbtpcviwfvjxf04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/Vgj5KAmcsi2",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "I like how TNC is always willing to take things to their logical conclusions.   &quot;I won&#39;t tell players how to spend their Sundays...&quot;",
+    "url": "https://plus.google.com/109695781128233963799/posts/Vgj5KAmcsi2",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12pzbtpcviwfvjxf04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12pzbtpcviwfvjxf04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12pzbtpcviwfvjxf04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Greg Williams Motivational Talk",
+      "content": "ESPN compiles the most damning quotes from the leaked audio: Williams uses one of his favorite slogans in the speech: \"Kill the head and the body will die.\" On Gore: \"We've got to do everything in the world to make sure we kill Frank Gore's head. We want him running sideways. We want his head sideways.\" On running back Kendall Hunter: \"Little 32, we're going to knock the f--- out of him.\" On Smith: \"Every single one of you, before you get off the...",
+      "url": "http://feedproxy.google.com/~r/Ta-nehisiCoates/~3/rYp9ron_eNI/story01.htm"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/u6ihXSXC2OA1lF8Ib28mUtrtXSM\"",
+   "title": "",
+   "published": "2012-04-06T15:25:53.345Z",
+   "updated": "2012-04-06T15:25:53.345Z",
+   "id": "z12et1kizpmijpm4p04cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/S21vikxjP72",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "",
+    "url": "https://plus.google.com/109695781128233963799/posts/S21vikxjP72",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12et1kizpmijpm4p04cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12et1kizpmijpm4p04cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12et1kizpmijpm4p04cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Quote of the Day: April 6, 2012: George Orwell: Coal Mining in the 1930s",
+      "content": "George Orwell:\n\nGeorge Orwell - The Road to Wigan Pier - Chapter 2: Even when you watch the process of coal-extraction you probably only watch it for a short time, and it is not until you begin making a few calculations that you realize what a stupendous task the 'fillers' are performing. Normally each o man has to clear a space four or five yards wide. The cutter has undermined the coal to the depth of five feet, so that if the seam of coal is t...",
+      "url": "http://feedproxy.google.com/~r/BradDelongsSemi-dailyJournal/~3/8632Vjn7A-k/gerge-orwell-coal-mining-in-the-1930s.html"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/8Ts79jrSD6cHUacdUTSdVWNSByI\"",
+   "title": "just gonna put this one here:\nhttp://www.sltrib.com/sltrib/opinion/53856565-82/bagley-cartoon-capitalists...",
+   "published": "2012-04-05T04:44:36.964Z",
+   "updated": "2012-04-05T04:44:36.964Z",
+   "id": "z13xj5oqoqadx1xsv23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/5g12PmqXDW9",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "just gonna put this one here: \u003cbr /\u003e\u003ca href=\"http://www.sltrib.com/sltrib/opinion/53856565-82/bagley-cartoon-capitalists-complaint.html.csp\" class=\"ot-anchor\"\u003ehttp://www.sltrib.com/sltrib/opinion/53856565-82/bagley-cartoon-capitalists-complaint.html.csp\u003c/a\u003e",
+    "url": "https://plus.google.com/109695781128233963799/posts/5g12PmqXDW9",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xj5oqoqadx1xsv23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xj5oqoqadx1xsv23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xj5oqoqadx1xsv23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Bagley cartoon: The Capitalists’ ComplaintBagley cartoon: The Capitalists’ Complaint",
+      "content": "This Pat Bagley editorial cartoon appears in The Salt Lake Tribune on Thursday, April 5, 2012. Want more? Become a fan of Bagley on Facebook at www.facebook.com/notrobertkirby",
+      "url": "http://www.sltrib.com/sltrib/opinion/53856565-82/bagley-cartoon-capitalists-complaint.html.csp",
+      "image": {
+       "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.sltrib.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID%3Dicx$rnzPaE17SLGigwcCj8$daE2N3K4ZzOUsqbU5sYutymshPergPkx1SW9Nq80TWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-%26CONTENTTYPE%3Dimage/jpeg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://www.sltrib.com/csp/cms/sites/dt.common.streams.StreamServer.cls?STREAMOID=icx$rnzPaE17SLGigwcCj8$daE2N3K4ZzOUsqbU5sYutymshPergPkx1SW9Nq80TWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/5Nt5R_EGrBPbegIXx307yk6w6OM\"",
+   "title": "",
+   "published": "2012-04-04T21:11:19.202Z",
+   "updated": "2012-04-04T21:11:19.202Z",
+   "id": "z130elshhnfsdtr4204cgvyhpujsjzsxnwc0k",
+   "url": "https://plus.google.com/109695781128233963799/posts/Ns9rkB5JBeF",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "",
+    "url": "https://plus.google.com/109695781128233963799/posts/Ns9rkB5JBeF",
+    "replies": {
+     "totalItems": 2,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130elshhnfsdtr4204cgvyhpujsjzsxnwc0k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130elshhnfsdtr4204cgvyhpujsjzsxnwc0k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z130elshhnfsdtr4204cgvyhpujsjzsxnwc0k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "False Equivalence Watch: the Platonic-Ideal Form",
+      "content": "Yesterday Barack Obama went to the annual Associated Press luncheon and exhorted journalists to avoid the \"false equivalence\" syndrome in coverage of controversial events. If you've missed the previous ten million items on this theme, you can read his speech or my precis of it. In short, the false equivalence problem is that although it's convenient and \"objective\"-seeming for reporters simply to quote \"both sides\" of a public issue, the results ...",
+      "url": "http://feedproxy.google.com/~r/JamesFallows/~3/HQ_pQuDCU4Q/story01.htm"
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google Reader"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"7HpFblUArfrPtA5o1skWFUSIUoc/lO8rY3MU18arIg0ANEzqSynXlB8\"",
+   "title": "http://www.tnr.com/blog/timothy-noah/102283/jeffrey-toobins-big-week\n\nhow the zeitgeist works these days...",
+   "published": "2012-04-04T18:03:54.300Z",
+   "updated": "2012-04-04T18:03:54.300Z",
+   "id": "z13ssb0zxlrhwpwkx23aznhiny3zybgz204",
+   "url": "https://plus.google.com/109695781128233963799/posts/612CnF46gXr",
+   "actor": {
+    "id": "109695781128233963799",
+    "displayName": "andrew jackson",
+    "url": "https://plus.google.com/109695781128233963799",
+    "image": {
+     "url": "https://lh6.googleusercontent.com/-6CDiA09IvO4/AAAAAAAAAAI/AAAAAAAAAAA/js5z8eWIR6s/photo.jpg?sz=50"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "content": "\u003ca href=\"http://www.tnr.com/blog/timothy-noah/102283/jeffrey-toobins-big-week\" class=\"ot-anchor\"\u003ehttp://www.tnr.com/blog/timothy-noah/102283/jeffrey-toobins-big-week\u003c/a\u003e\u003cbr /\u003e\u003cbr /\u003ehow the zeitgeist works these days...",
+    "url": "https://plus.google.com/109695781128233963799/posts/612CnF46gXr",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ssb0zxlrhwpwkx23aznhiny3zybgz204/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ssb0zxlrhwpwkx23aznhiny3zybgz204/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13ssb0zxlrhwpwkx23aznhiny3zybgz204/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Jeffrey Toobin’s Big Week | The New Republic",
+      "content": "There are two ways to explain the early onset of liberal panic over last week's health care hearings at the Supreme Court. In the first, Solicitor General Don Verrilli turned in an unexpectedly we...",
+      "url": "http://www.tnr.com/blog/timothy-noah/102283/jeffrey-toobins-big-week",
+      "image": {
+       "url": "https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://www.tnr.com/sites/default/files/imagecache/detail_page/toobin.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_h=150&resize_w=150&no_expand=1",
+       "type": "image/jpeg",
+       "height": 150,
+       "width": 150
+      },
+      "fullImage": {
+       "url": "http://www.tnr.com/sites/default/files/imagecache/detail_page/toobin.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    margin: 2ex 4ex;
+}
+
+div.post {
+    width: 50ex;
+    border: solid 1px gray;
+    margin: 2ex 0;
+    padding: 1ex;
+}
