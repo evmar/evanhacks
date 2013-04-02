@@ -24,8 +24,14 @@ type GPItem struct {
 	Object    GPObject `json:"object"`
 }
 type GPObject struct {
-	Content string `json:"content"`
-	Url     string `json:"url"`
+	Content     string          `json:"content"`
+	Url         string          `json:"url"`
+	Attachments []*GPAttachment `json:"attachments"`
+}
+type GPAttachment struct {
+	DisplayName string `json:"displayName"`
+	Content     string `json:"content"`
+	Url         string `json:"url"`
 }
 
 type AtomFeed struct {
@@ -63,7 +69,14 @@ func ReadGPFeed(r io.Reader) (feed *GPFeed, err error) {
 }
 
 func RenderPost(item *GPItem) string {
-	return item.Object.Content
+	html := item.Object.Content
+	for _, attach := range item.Object.Attachments {
+		html += "<br><hr>"
+		html += "<p><b>" + attach.DisplayName + "</b></p>"
+		html += attach.Content
+		html += "<p><a href='" + attach.Url + "'>link</a></p>"
+	}
+	return html
 }
 
 func Transcode(r io.Reader, w io.Writer) error {
