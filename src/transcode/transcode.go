@@ -71,10 +71,12 @@ func ReadGPFeed(r io.Reader) (feed *GPFeed, err error) {
 func RenderPost(item *GPItem) string {
 	html := item.Object.Content
 	for _, attach := range item.Object.Attachments {
-		html += "<br><hr>"
-		html += "<p><b>" + attach.DisplayName + "</b></p>"
-		html += attach.Content
-		html += "<p><a href='" + attach.Url + "'>link</a></p>"
+		if len(html) > 0 {
+			html += "<br><hr>"
+		}
+		html += "<p><b>" + attach.DisplayName + "</b> "
+		html += "[<a href='" + attach.Url + "'>link</a>]</p>"
+		html += "<p style='white-space: pre-wrap'>" + attach.Content + "</p>"
 	}
 	return html
 }
