@@ -30,10 +30,17 @@ type GPObject struct {
 	Attachments []*GPAttachment `json:"attachments"`
 }
 type GPAttachment struct {
-	ObjectType  string          `json:"objectType"`
-	DisplayName string `json:"displayName"`
-	Content     string `json:"content"`
-	Url         string `json:"url"`
+	ObjectType  string   `json:"objectType"`
+	DisplayName string   `json:"displayName"`
+	Content     string   `json:"content"`
+	Url         string   `json:"url"`
+	Image       *GPImage `json:"image"`
+	FullImage   *GPImage `json:"fullImage"`
+}
+type GPImage struct {
+	Url    string `json:"url"`
+	Width  int    `json:"width"`
+	Height int    `json:"height"`
 }
 
 type AtomFeed struct {
@@ -82,8 +89,8 @@ func RenderPost(item *GPItem) string {
 			html += "[<a href='" + attach.Url + "'>link</a>]</p>"
 			html += "<p style='white-space: pre-wrap'>" + attach.Content + "</p>"
 		case "photo":
-			html += fmt.Sprintf("<p>Attachment: <a href='%s'>photo</a></p>",
-				attach.Url)
+			html += fmt.Sprintf("<p>Attachment: <a href='%s'>photo</a> [%dx%d]</p>",
+				attach.Url, attach.FullImage.Width, attach.FullImage.Height)
 		default:
 			html += fmt.Sprintf("<p><i>Attachment unhandled: '%s'</i></p>",
 				attach.ObjectType)
